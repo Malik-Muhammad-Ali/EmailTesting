@@ -1,5 +1,5 @@
 #root{
-  background-image: url('./bg5.jpeg');
+  background-image: url('../bg5.jpeg');
   background-size: cover;
   background-position: center;
   min-height: 100vh;
